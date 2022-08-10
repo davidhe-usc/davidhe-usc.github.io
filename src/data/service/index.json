@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "GAME DEVELOPMENT",
+    "content": "2 years of experience in Unity and Unreal Engine development. Primarily interested in Art Asset Integration, but also capable of combat-focused gameplay prototyping and implementation, as well as VR development. Additional experience as Technical Lead with Tools and Pipeline design and development."
+  },
+  {
+    "id": 2,
+    "title": "PROGRAMMING",
+    "content": "Experience with C, C++, and C# languages, but can also perform minor scripting with Python for data processing and visualization. Also capable of development in Java and Javascript."
+  },
+  {
+    "id": 3,
+    "title": "TECHNICAL ART",
+    "content": "2 years of experience as Lead (often Sole) Technical Artist. Experienced in Rigging and Animation in Unity and Dragonbones, as well as Shader Design and Implementation using Shader Graph and HLSL. Also capable of UI and VFX element design and implementation using Adobe Illustrator."
+  },
+  {
+    "id": 4,
+    "title": "DIGITAL ART",
+    "content": "Willing to take professional-level, full-piece Digial Art Comissions. Produced in Clip Studio Paint often within a 3-month timeline depending on quality desired. Also capable of doing Concept Design pieces. Styles include mechanical, realistic, science fiction, and anime, with a heavy focus on military design."
+  },
+  {
+    "id": 5,
+    "title": "3D MODELING",
+    "content": "Intermediate experience in Blender and Maya. Previously served as presenter and tutor for UIUC SIGGRAPH Chapter and capable of modeling complex, multifaceted geometry."
+  }
+]

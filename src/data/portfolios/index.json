@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "That's Not How It Happened",
+    "slug": "thats-not-how-it-happened",
+    "category": "Game Development",
+    "thumb": "TNHIH_thumbnail2.gif",
+    "description": "Served as Technical Art Lead and Gameplay Engineer for 'That's Not How It Happened', a narratively-driven multi-genre experience. Created as a collaboration between USC's Advanced Games Projects and Master of Fine Arts Theses Projects, TNHIH utilizes the Rashomon Effect to tell the story of a family inn burning down from several different perspectives. Each one of these different perspectives is encapsulated in unique gameplay experiences, leaving the audience to puzzle through a dynamically-evolving story. Personal responsibilities included Art Pipeline Development, Gameplay Engineer, UI Artist, Animator and Rigger, as well as VFX and Shader Artist. Image credits to Gethsy Gonzalez, Gwen Hozman, Stephanie Cheng, and Sophie Chu.",
+    "previewImages": [
+      "TNHIH_thumbnail.png",
+      "Rose_WinstonSpeaks_v1.gif",
+      "George_CombatDemo.gif",
+      "Alan_ChoiceSelection.gif",
+      "TNHIH_zoey.jpg",
+      "ZoeyWalk.gif",
+      "George_FireOverlay_Demo.gif"
+    ],
+    "meta": {
+      "client": "Meny Menczel",
+      "date": "09/2021 - 05/2022",
+      "website": "https://store.steampowered.com/app/1958400/Thats_Not_How_it_Happened/",
+      "services": [
+        "Programming",
+        "Pipeline",
+        "Animation",
+        "UI",
+        "VFX",
+        "Steam"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "STARWEAVE",
+    "slug": "starweave",
+    "category": "Game Development",
+    "thumb": "starweave_thumbnail.png",
+    "description": "Served as Prototype Lead and Technical Art Lead as well as Interim Engineering Lead for Starweave, a narratively-driven turn-based tactical RPG with self-directed AI integration. An MFA Thesis project helmed by fellow USC Graduate Rachel Geng, Starweave seeks to evoke interesting character interactions and tactics while lamenting the restrictions that destiny imposes. Splash and Concept Art have been provided by Rachel Geng, with Character Sprites designed by Leni Le.",
+    "previewImages": [
+      "starweave_thumbnail.png",
+      "starweave_characters.png",
+      "starweave_prototype.png",
+      "starweave_rigging.png"
+    ],
+    "meta": {
+      "client": "Rachel Geng",
+      "date": "12/2021 - ",
+      "website": "Under Construction",
+      "services": [
+        "Programming",
+        "Pipeline",
+        "Animation",
+        "UI",
+        "VFX"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Robot Race",
+    "slug": "robot-race",
+    "category": "Game Development",
+    "thumb": "robotrace_thumbnail2.gif",
+    "description": "Currently serving as UI and Networking Engineer under USC Professors Scott Easley and Matthew Whiting for Robot Race. Robot Race is a mobile racing game with unique characters and transformations originally released in 2016, and is now being updated with new multiplayer modes, currencies, and future-proofing measures. Splash art and in-game assets designed by Scott Easley, with UI created in collaboration with Archibald Weng.",
+    "previewImages": [
+      "robotrace_thumbnail.jpg",
+      "robotrace_mainmenu.png",
+      "robotrace_ui.png",
+      "robotrace_ingame.gif"
+    ],
+    "meta": {
+      "client": "Scott Easley",
+      "date": "05/2022 - ",
+      "website": "http://easleydunnproductions.com/temp_index.html",
+      "services": [
+        "Programming",
+        "Pipeline",
+        "UI",
+        "VFX"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Fanart",
+    "slug": "fanart",
+    "category": "Digital Art",
+    "thumb": "fanart_thumbnail.png",
+    "description": "Personal art pieces centering around Fate/Grand Order IP using Clip Studio Paint as an exercise in Digital Art proficiency. Pieces displayed here are sorted by chronological order, from most-to-least recently produced.",
+    "previewImages": [
+      "Salter Export I.png",
+      "Jalter Mk VII.png",
+      "Expression Practice II.png"
+    ],
+    "meta": {
+      "client": "Personal",
+      "date": "05/2021",
+      "website": "https://www.artstation.com/davidhe1",
+      "services": [
+        "Digital Art"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mecha Design",
+    "slug": "mecha-design",
+    "category": "Concept Art",
+    "thumb": "gundam_thumbnail.png",
+    "description": "Concept pieces for Mobile Suit designs derived from 'Mobile Suit Gundam: Iron-Blooded Orphans' Sunrise IP. Done primarily to flesh out a fanfiction concept exploring Private Military Corporations. Pieces currently displayed here include the ASW-G-24 Naberius and the STH-18 Eihei Commander Type, with several other variations that can be viewed on my ArtStation. Due to their status as concept pieces, they are derived off other Mobile Suit artwork and should be considered an exhibition of design skill rather than pure art skill. Current efforts are being made to model and rig the STH-18 in Maya. Gundam Frame Pose Reference from https://twitter.com/yuichiAxesset/status/1011912819594313728",
+    "previewImages": [
+      "Gundam Razgriz Export II.png",
+      "Eihei Round Mk I.png"
+    ],
+    "meta": {
+      "client": "Personal",
+      "date": "05/2021",
+      "website": "https://www.artstation.com/davidhe1",
+      "services": [
+        "Concept Art",
+        "3D Modeling",
+        "Rigging"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Just Swingin' It",
+    "slug": "just-swingin-it",
+    "category": "Game Design and Development",
+    "thumb": "swingin_thumbnail.gif",
+    "description": "Acted as Design and Engineering Lead for 'Just Swingin' It' - a small game project centered around a robust 2D grappling hook mechanic. Led 6 other novice engineers to carry out implementation, powerup, and level design tasks.",
+    "previewImages": [
+      "masonry-swingin_thumbnail.gif"
+    ],
+    "meta": {
+      "client": "CSCI 526 Mobile Games",
+      "date": "08/2021",
+      "website": "N/A",
+      "services": [
+        "Programming",
+        "Design"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Rumble in the Jungle Gym",
+    "slug": "rumble-in-the-jungle-gym",
+    "category": "Game Development and Digital Art",
+    "thumb": "RITJG_thumbnail.png",
+    "description": "Created 26 unique pieces for use as card art for deckbuilding game 'Rumble in the Jungle Gym' over the course of 2 weeks.",
+    "previewImages": [
+      "POW I.png",
+      "Dash Box.png",
+      "Well-Prepared I.png",
+      "Turbo Boosters I.png"
+    ],
+    "meta": {
+      "client": "CSCI 488 Game Design",
+      "date": "11/2020",
+      "website": "N/A",
+      "services": [
+        "Digital Art"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Deformable Object Simulation using a Jello Cube",
+    "slug": "jello-cube",
+    "category": "3D Animation and Simulation",
+    "thumb": "jellocube_thumbnail.gif",
+    "description": "Simple animated model of a 3D deformable cube created with a Mass-Spring system. Version shown is dynamically animated with full collision interaction using an RK4 integrator (Euler Integrator also included in source code). Minor click-drag interactability included, as well as ability to switch between rendered and wireframe modes. Implemented in C++ and rendered with OpenGL. Starter code provided by USC Professor Jernej Barbic.",
+    "previewImages": [
+      "masonry-jellocube_thumbnail.gif",
+      "masonry-jellocube_thumbnail2.gif"
+    ],
+    "meta": {
+      "client": "CSCI 520 Computer Animation and Simulation",
+      "date": "1/2022",
+      "website": "https://drive.google.com/file/d/1bfd4lnepmohVG0sfun6vyK71knZ9yjQe/view?usp=sharing",
+      "services": [
+        "Programming",
+        "Animation",
+        "Simulation"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Animation Spline Interpolation with Motion Capture",
+    "slug": "spline-interpolation",
+    "category": "3D Animation and Simulation",
+    "thumb": "interpolation_thumbnail.gif",
+    "description": "Reconstruction of CMU Motion Capture Library animations using Euler and Quaternion LERP and SLERP techniques to preform interpolation between keyframes. Animations shown here overlaid with original mocap data to showcase accuracy in reconstruction. Implemented in C++ and rendered with OpenGL. Starter code provided by USC Professor Jernej Barbic.",
+    "previewImages": [
+      "masonry-interpolation_thumbnail.gif",
+      "masonry-interpolation_thumbnail2.gif"
+    ],
+    "meta": {
+      "client": "CSCI 520 Computer Animation and Simulation",
+      "date": "3/2022",
+      "website": "https://drive.google.com/file/d/1MYJRjh5KoyrvnBjW_GGUI-nRGQPly9-j/view?usp=sharing",
+      "services": [
+        "Programming",
+        "Animation",
+        "Simulation"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Inverse Kinematics with Skinning",
+    "slug": "inverse-kinematics",
+    "category": "3D Animation and Simulation",
+    "thumb": "kinematics_thumbnail.gif",
+    "description": "Interactable Skeleton with skinned mesh and IK handles to demonstrate understanding of both Forward and Inverse Kinematics. Source code contains affordances for different meshes (hand, armadillo and dragon) alongside implementation for Tikhinov and PseudoInverse solvers. Implemented in C++ and rendered with OpenGL. Starter code provided by USC Professor Jernej Barbic.",
+    "previewImages": [
+      "masonry-kinematics_thumbnail.gif",
+      "masonry-kinematics_thumbnail2.gif"
+    ],
+    "meta": {
+      "client": "CSCI 520 Computer Animation and Simulation",
+      "date": "4/2022",
+      "website": "https://drive.google.com/file/d/1MYJRjh5KoyrvnBjW_GGUI-nRGQPly9-j/view?usp=sharing",
+      "services": [
+        "Programming",
+        "Animation",
+        "Simulation"
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/home-default",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 2,
+    "title": "About Me",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Portfolio",
+    "link": "/portfolio-masonry-four-column",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 4,
+    "title": "Service",
+    "link": "/service",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

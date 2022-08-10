@@ -1,0 +1,38 @@
+{
+  "thumb": "about.jpg",
+  "bio": "Technical Artist and Software Engineer with a Masters in Computer Science from the University of Southern California, and 2 years of development experience in Unity. Capable of adapting to differing roles and work environments. Heavy passion for action-oriented game programming and military-oriented character designs.",
+  "skype": "live:misterred250",
+  "availability": true,
+  "languages": [
+    "C",
+    "C++",
+    "C#",
+    "Java",
+    "Javascript",
+    "React",
+    "HTML",
+    "CSS"
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Game Development",
+      "percentage": 90
+    },
+    {
+      "id": 2,
+      "title": "UI and VFX Art",
+      "percentage": 85
+    },
+    {
+      "id": 3,
+      "title": "Rigging and Animation",
+      "percentage": 80
+    },
+    {
+      "id": 4,
+      "title": "3D Modeling and Materials",
+      "percentage": 80
+    }
+  ]
+}

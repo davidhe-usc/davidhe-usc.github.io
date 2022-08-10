@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "media": "linkedin",
+    "url": "https://www.linkedin.com/in/davidhe2-662928309/"
+  },
+  {
+    "id": 2,
+    "media": "artstation",
+    "url": "https://www.artstation.com/davidhe1"
+  },
+  {
+    "id": 3,
+    "media": "github",
+    "url": "https://github.com/davidhe-usc?tab=repositories"
+  },
+  {
+    "id": 4,
+    "media": "google",
+    "url": "https://dribbble.com/hasthemes"
+  }
+]
