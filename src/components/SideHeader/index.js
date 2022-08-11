@@ -84,20 +84,20 @@ const SideHeader = ({mobile}) => {
 
                             <div className="side-header-footer pb-120 pb-lg-80 pb-md-80 pb-sm-80 pb-xs-50">
                                 <div className="side-header-contact-info">
-                                    <p><a href="/">+1 (480) 492 9835</a></p>
-                                    <p><a href="/">davidhe@usc.edu</a></p>
+                                    <p><a href="/">+012 345 6789</a></p>
+                                    <p><a href="/">info@example.com</a></p>
                                 </div>
 
                                 <div className="side-header-social">
                                     {socialicons.map(icon => (
                                         <a key={icon.id} href={`https://${icon.media}.com/${icon.username}`}>
-                                            <i className={`fa-brands fa-${icon.media}`}/>
+                                            <i className={`fa fa-${icon.media}`}/>
                                         </a>
                                     ))}
                                 </div>
 
                                 <div className="side-header-copyright">
-                                    <p>&copy; {new Date().getFullYear()} DAVID HE. ALL RIGHT RESERVED</p>
+                                    <p>&copy; {new Date().getFullYear()} MINIMAU. ALL RIGHT RESERVED</p>
                                 </div>
                             </div>
                         </div>
